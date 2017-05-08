@@ -1,0 +1,222 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: system/etc/CrossBreeder/dnsc
+SHA1-Digest: iqbhw4pq9Bybiwlp5WKmLJFbH5Q=
+
+Name: system/etc/CrossBreeder/CHECK_PROCS
+SHA1-Digest: Lm5xJsx015avN2mnI2VPzGUHhFQ=
+
+Name: system/etc/CrossBreeder/pixelserv
+SHA1-Digest: Uo304k22txUwhbNdevLoSCUNfD4=
+
+Name: system/usr/idc/mxt224_ts_input.idc
+SHA1-Digest: OE72OifVs5Wv0iX06ys0bC6Hyso=
+
+Name: system/etc/init.d/remount_fullext4
+SHA1-Digest: 5AfM0uR4lYNodB//0R3GgcxpgM4=
+
+Name: system/xbin/zipalign
+SHA1-Digest: pwL0NEqL/oCSjT+NiX3jh8ptQSU=
+
+Name: system/etc/init.d/S98system_tweak
+SHA1-Digest: AH3fTWPHLt2Ct4DmZ7ZNw1JdCmw=
+
+Name: system/default.prop
+SHA1-Digest: OPqxkq9pk7xFKdsbTCtX5HOKbwM=
+
+Name: system/etc/CrossBreeder/rinetd.conf
+SHA1-Digest: FvCtmT4a5Tso931yOd5Yz3Bx/Gc=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: 2ejc6Wsqvrbcxin8jwNFwE4Zoc0=
+
+Name: setup/debuggerd
+SHA1-Digest: T8S6GLKPUX4qL8PE+LR2zDPkr9c=
+
+Name: setup/busybox
+SHA1-Digest: nNOBEHDZF2VJosqwByCM5+mjpYA=
+
+Name: system/etc/CrossBreeder/zzCHECK_NET_DNS
+SHA1-Digest: HFXs/ADGGyGM2GCT2kA+Cwyfcs4=
+
+Name: system/etc/CrossBreeder/REMOVE_TETHER_BOOST
+SHA1-Digest: 1Jm2ciXiyZNOjEc29f138F1luRY=
+
+Name: system/etc/CrossBreeder/dnrd_root/master
+SHA1-Digest: vFVuT5J9GTnQy5lkVyMP97KTxf8=
+
+Name: system/etc/CrossBreeder/Thunderbolt_Tweaks_IO.sh
+SHA1-Digest: 1/O6pWwHST2WR15hZRuBbJ6fC5o=
+
+Name: system/etc/CrossBreeder/ENABLE_GOVERNOR_TWEAKS
+SHA1-Digest: Juw/+bLXnj93KqFffeJpl/7AWHo=
+
+Name: system/etc/init.d/net_buffer
+SHA1-Digest: r6J63Or02cWYaR6DhDrQhO87ofs=
+
+Name: system/etc/CrossBreeder/punchmod
+SHA1-Digest: VpMeS/sd3OtGMxckEYahwH+ws50=
+
+Name: system/etc/CrossBreeder/zzCrossBreeder
+SHA1-Digest: 956zh38/3LGNZKTjlsku8IUof/4=
+
+Name: data/local.prop
+SHA1-Digest: OPqxkq9pk7xFKdsbTCtX5HOKbwM=
+
+Name: system/etc/CrossBreeder/zzReset_DNS
+SHA1-Digest: KVLzmwMEUfZX9nsv4I47WI64v5k=
+
+Name: system/etc/hosts
+SHA1-Digest: 4SjocR+nBBhE+BaS+awH5hY5q6U=
+
+Name: system/etc/CrossBreeder/DISABLE_CROSSBREEDER
+SHA1-Digest: dKlbAf8AHlPc+53mfpVV1uV64IM=
+
+Name: setup/REMOVE_TETHER_BOOST
+SHA1-Digest: q+G247PBx9XYj2ZieKwy3xQaW4M=
+
+Name: system/etc/CrossBreeder/IRQ_FLUSH_FREQUENCY_MINUTES
+SHA1-Digest: tCl9i6d7DSCPPDU3olkv0jnZAI4=
+
+Name: system/etc/CrossBreeder/DISABLE_IO_TWEAKS
+SHA1-Digest: 4gsstIJ72vCTseB7KnxT22V6xts=
+
+Name: system/etc/init.d/ram_optimize
+SHA1-Digest: Ftn7hV6TpMDp+f7Ij3sMY5688fw=
+
+Name: system/etc/CrossBreeder/rinetd
+SHA1-Digest: lkSrQ/BijhMQYClXN6hJDqh19Rg=
+
+Name: system/etc/CrossBreeder/dnsmasq.txt
+SHA1-Digest: /zm4q7XVciAlL/TivWa0jyZe9DM=
+
+Name: data/adrenaline/engine/etc/AdrenalineFilesHere.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: system/etc/CrossBreeder/WRITE_WAKEUP_THRESHOLD
+SHA1-Digest: CdKvjdIiAd2NSOXc/K7Sgf+UIsc=
+
+Name: system/etc/CrossBreeder/REMOVE_DNS_CLIENT
+SHA1-Digest: Jixu3YNnfyfKQC2QcIXB2F34CdM=
+
+Name: system/etc/CrossBreeder/hosts
+SHA1-Digest: 4SjocR+nBBhE+BaS+awH5hY5q6U=
+
+Name: system/etc/init.d/ext4_lagfix
+SHA1-Digest: 5AfM0uR4lYNodB//0R3GgcxpgM4=
+
+Name: system/etc/CrossBreeder/CB_RunHaveged
+SHA1-Digest: 9542K3vR11zpL6Sw2dgzoFyL4aM=
+
+Name: setup/install_init_entries.sh
+SHA1-Digest: Xta7juqoRAWETwrxCP/LROxoJlA=
+
+Name: setup/tune2fs
+SHA1-Digest: HbRrOMOHQPVt1qP5VowOjVAELEo=
+
+Name: system/etc/CrossBreeder/00CrossBreeder_initd
+SHA1-Digest: /DYO9CE4Z+n+25Pn/8SIUgHf+6U=
+
+Name: system/etc/CrossBreeder/CB_FileLock
+SHA1-Digest: jpTJQGvSvu8XIHy9qazTMNZh78E=
+
+Name: system/etc/CrossBreeder/dnsmasq.conf
+SHA1-Digest: aghvNNvgHNZckO3Wxn8P5DY7vdE=
+
+Name: add_to_buildprop.sh
+SHA1-Digest: 0M/M5WVAGxmIOY9fIm07jbZY9/k=
+
+Name: system/etc/CrossBreeder/null.bin
+SHA1-Digest: KWfhkWN0qlkYdGdPbs1MIZwi3kM=
+
+Name: system/etc/CrossBreeder/ENABLE_BYPASS_ISP
+SHA1-Digest: hnv5PozlTx0LkQiW5v0p6Thx9aA=
+
+Name: system/etc/CrossBreeder/START_ADBLOCK
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: system/etc/init.d/sqlite_optimize
+SHA1-Digest: NZexNFTHqKIA3cRBRJB2SoCWHw8=
+
+Name: system/xbin/haveged
+SHA1-Digest: IKCr8QQlSl3KvsEUbhT0VJCWtFg=
+
+Name: setup/restore_dnsmasq.sh
+SHA1-Digest: 9DivHSVCPUBUChB/U/KV7LfENf8=
+
+Name: setup/install_hw_entries.sh
+SHA1-Digest: 05iyhETKTgRkZHSpHuLsKIC9SdA=
+
+Name: system/etc/init.d/S70darky_zipalign
+SHA1-Digest: EZG0hFn4wGO8fABxH0TufAsgxQo=
+
+Name: system/etc/CrossBreeder/sqlite3
+SHA1-Digest: QImssUk8UzMU1k+6RM4Rfs38yD8=
+
+Name: system/etc/CrossBreeder/DISABLE_GOVERNOR_TWEAKS
+SHA1-Digest: frTGrkZeY5jzp36rjiCD0+zIBh8=
+
+Name: data/adrenaline/engine/etc/init.d/UserInit.dFilesHere.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: system/etc/CrossBreeder/DISABLE_ADBLOCK
+SHA1-Digest: SQwZqkVil+LuAaZDsJeVZqpQnas=
+
+Name: system/etc/CrossBreeder/ENABLE_IO_TWEAKS
+SHA1-Digest: AxL9IF+Hbpw+wMJnTxnjCLdORXI=
+
+Name: system/etc/CrossBreeder/install-recovery.sh
+SHA1-Digest: vUj2DLsDY2JWtkPQg0AUaiRbBkI=
+
+Name: system/xbin/openvpn
+SHA1-Digest: YwqQVIo886fQwEyT9PooQEgZWbQ=
+
+Name: setup/install_debuggerd.sh
+SHA1-Digest: vbkJRPFAfm9inu5AFjE5wELxz8k=
+
+Name: system/etc/CrossBreeder/REMOTE_DNS
+SHA1-Digest: 8nqwKHaSZ33x3uJieHKQLf+THtc=
+
+Name: system/etc/CrossBreeder/ENABLE_ADBLOCK
+SHA1-Digest: k9/MPJzszlTAOO3tr0rtiNCG0Uo=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 7LjhI2kUKoWfvQFHyInm+pcJigY=
+
+Name: system/etc/CrossBreeder/dnrd.10053
+SHA1-Digest: v/f7ZatEDbvYU9rmF4gw8Yr4J5U=
+
+Name: system/etc/CrossBreeder/null.gif
+SHA1-Digest: La6qi18Z8LwgnZdsAr1qy1GwCwo=
+
+Name: system/etc/CrossBreeder/CB_Check_Net_DNS
+SHA1-Digest: ANqjwe7sSbtng1ZHrufOy4FyqzI=
+
+Name: system/etc/CrossBreeder/nullgif.bin
+SHA1-Digest: XFvS0H0fMQwG5ntLxNtNRmAJhwQ=
+
+Name: system/bin/dnsmasq_dhcp
+SHA1-Digest: 8zRyLboRViumNF31+qCha9sXG/Y=
+
+Name: system/bin/dnsmasq
+SHA1-Digest: /zm4q7XVciAlL/TivWa0jyZe9DM=
+
+Name: system/etc/CrossBreeder/INSTALL_TETHER_BOOST
+SHA1-Digest: hOrpRDhrPYjpqIX/HJxwPV/6vLo=
+
+Name: system/etc/CrossBreeder/ENABLE_CROSSBREEDER
+SHA1-Digest: fnaXrQEttm7+TpAY+Mko67s5yCc=
+
+Name: system/etc/CrossBreeder/DISABLE_BYPASS_ISP
+SHA1-Digest: 7B3xnCMXCzxYys20m2kMTXsFNS8=
+
+Name: system/etc/CrossBreeder/INSTALL_DNS_CLIENT
+SHA1-Digest: JeWTGKDMY2bMTkjdPQzpdIk7pcA=
+
+Name: system/etc/CrossBreeder/CB_Governor_Tweaks.sh
+SHA1-Digest: zuy1nEjrmdq5Ty/xY5lRAPDVFLA=
+
+Name: setup/dnsmasq.CBBAK
+SHA1-Digest: FeqizBsuif0WVf50EJBQZBCUBas=
+
